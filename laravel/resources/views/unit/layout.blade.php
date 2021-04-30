@@ -8,7 +8,9 @@ layout file, like css.style, but stangely enough not needed
 </head>
 <style>
 body{
-background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MultiCam.svg/1280px-MultiCam.svg.png')
+background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MultiCam.svg/1280px-MultiCam.svg.png');
+background-repeat: no-repeat;
+background-size: cover;
 }
 </style>
 <body>

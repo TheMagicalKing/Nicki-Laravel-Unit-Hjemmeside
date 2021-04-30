@@ -19,5 +19,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/14thaag', function (){
-    return view('unit');
+    return view('unit.index');
 });
