@@ -3,23 +3,9 @@ this is the index blade, this blade will be where everyone arrives
  
 @section('content')
 
-<div class="container-bg">
-    <div class="container">
-        
-    <div class="col-sm-4 ">
-            and a one
-            </div>
-            <div class="col-sm-4">
-            and a two
-            </div>
-            <div class="col-sm-4">
-            and a three
-            </div>
-            <div class="col-sm-4">
-            and a 4
-            </div>
-        
-    </div>
+<div class="container">
+    <div class="bgcontainer"></div>
+<h1>welcome to the unit page of the 14th Air Assault Group</h1>
 </div>
     
 @endsection

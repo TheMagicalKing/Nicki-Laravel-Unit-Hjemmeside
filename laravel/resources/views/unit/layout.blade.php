@@ -21,6 +21,16 @@ layout file, like css.style, but stangely enough not needed
 </head>
 
 <body>
+<div class="container-bg">
+    <div class="navbar">
+    <ul class="horizontal">
+        <li><a href="/unit">Home</a></li>
+        <li><a href="/leadership">leadership</a></li>
+        <li><a href="/unitlist">Unitlist</a></li>
+        <li><a href="/roster">Contact</a></li>
+    </ul>
+    </div>
+</div>
 
     @yield('content')
 
