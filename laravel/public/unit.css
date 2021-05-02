@@ -6,14 +6,17 @@ background-size: cover;
 }
 .col-sm-4{
     padding: 5px;
-    background-color: gainsboro;
+    background-color: beige;
 }
 
 .container{
     background-color: #333;
     color: beige;
     border-radius: 10px;
-    align-items: center;
+    text-align: center;
+}
+.navbar{
+    width: 100%;
 }
 .unitlisting{
     background-color: #888067;
@@ -22,6 +25,8 @@ background-size: cover;
     border-color: beige;
     border-style: solid;
     border: 2px solid beige;
+    text-align: center;
+    margin: 0 auto;
 }
 
 th, td{
@@ -34,20 +39,25 @@ th, td{
 
 ul {
     list-style-type: none;
-    margin: 0px;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     
+    
   }
+
+ul.horizontal{
+    display: block;
+    margin: 0 auto;
+}
+
 li{
-    float: left;
-    margin-left: 150px;
+    display: inline;
 }
 li a{
     display: block;
     color: white;
-    text-align: center;
+    
     padding: 14px 16px;  
     text-decoration: none;
 }
@@ -55,3 +65,5 @@ li a:hover{
     background-color:#d3c7a2;
     color: #333;
 }
+
+
