@@ -10,9 +10,22 @@ background-size: cover;
 }
 
 .container{
-    
+    background-color: #333;
     color: beige;
     border-radius: 10px;
+}
+.unitlisting{
+    width: 10px;
+    border-width: 10px;
+    border-color: beige;
+}
+
+th{
+    color: beige;
+    padding-left: 50px;
+    border: 50px;
+    border-color: beige;
+    
 }
 
 ul {

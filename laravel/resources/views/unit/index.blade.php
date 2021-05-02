@@ -4,8 +4,16 @@ this is the index blade, this blade will be where everyone arrives
 @section('content')
 
 <div class="container">
-    <div class="bgcontainer"></div>
 <h1>welcome to the unit page of the 14th Air Assault Group</h1>
+<p>The unit consists of Ground and Air Support units listed below</p>
+<table class="unitlisting">
+    <tr>
+        <th>VIKING</th>
+        <th>SOAR</th>
+        <th>LOKI</th>
+    </tr>
+
+</table>
 </div>
     
 @endsection
