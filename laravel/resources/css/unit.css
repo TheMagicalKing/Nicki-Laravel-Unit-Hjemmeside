@@ -2,3 +2,11 @@ body{
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MultiCam.svg/1280px-MultiCam.svg.png');
     background-repeat: no-repeat;
     }
+.container-bg{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: aqua;
+}
+@content{
+    
+}
