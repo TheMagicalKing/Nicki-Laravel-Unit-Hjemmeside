@@ -3,16 +3,19 @@ this is the index blade, this blade will be where everyone arrives
  
 @section('content')
     
-<div class="row">
-        <div class="col-lg-12 margin-tb">
-            <div class="pull-left">
-                <h2>Laravel 8 CRUD Example from scratch - ItSolutionStuff.com</h2>
-            </div>
-            <div class="pull-right">
-                <a class="btn btn-success" href="{{ route('unit.leadership') }}"> Create New Product</a>
-            </div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+        and a one
+        </div>
+        <div class="col-sm-4">
+        and a two
+        </div>
+        <div class="col-sm-4">
+        and a three
         </div>
     </div>
+</div>
 
     
 @endsection
