@@ -11,8 +11,8 @@ this is the index blade, this blade will be where everyone arrives
         <th>VIKING</th>
         <th>SOAR</th>
         <th>LOKI</th>
+        <th>COMMAND</th>
     </tr>
-
 </table>
 </div>
     

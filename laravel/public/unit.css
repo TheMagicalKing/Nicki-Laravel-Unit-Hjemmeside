@@ -13,19 +13,23 @@ background-size: cover;
     background-color: #333;
     color: beige;
     border-radius: 10px;
+    align-items: center;
 }
 .unitlisting{
+    background-color: #888067;
     width: 10px;
-    border-width: 10px;
+    border-width: 1px;
     border-color: beige;
+    border-style: solid;
+    border: 2px solid beige;
 }
 
-th{
+th, td{
     color: beige;
     padding-left: 50px;
     border: 50px;
     border-color: beige;
-    
+    padding-right: 50px;    
 }
 
 ul {
