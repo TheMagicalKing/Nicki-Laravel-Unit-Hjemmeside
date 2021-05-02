@@ -12,7 +12,7 @@ layout file, like css.style, but stangely enough not needed
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-    <link rel="stylesheet" href="{{ HTML::style('css/unit.css') }}"> 
+    <link rel="stylesheet" href="{{ URL::asset('/unit.css') }}"> 
 
 
 
@@ -21,9 +21,9 @@ layout file, like css.style, but stangely enough not needed
 </head>
 
 <body>
-<div class="container">
+
     @yield('content')
-</div>
+
    
 </body>
 </html>

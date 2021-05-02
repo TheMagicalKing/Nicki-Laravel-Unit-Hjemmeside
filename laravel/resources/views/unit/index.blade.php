@@ -5,8 +5,8 @@ this is the index blade, this blade will be where everyone arrives
 
 <div class="container-bg">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-4 ">
+        
+    <div class="col-sm-4 ">
             and a one
             </div>
             <div class="col-sm-4">
@@ -15,7 +15,10 @@ this is the index blade, this blade will be where everyone arrives
             <div class="col-sm-4">
             and a three
             </div>
-        </div>
+            <div class="col-sm-4">
+            and a 4
+            </div>
+        
     </div>
 </div>
     
