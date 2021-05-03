@@ -31,7 +31,14 @@ background-size: cover;
     border: 2px solid beige;
     text-align: center;
     margin: 0 auto;
+    margin-top: 10px;
     padding: 14px 16px;
+}
+.indexinfo{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    
 }
 
 th, td{
@@ -70,7 +77,10 @@ li a:hover{
     color: #333;
 }
 p{
-    padding: -14px -16px;
+    
+    display:inline;
+    margin-right:30px;
+    
 }
 
 
