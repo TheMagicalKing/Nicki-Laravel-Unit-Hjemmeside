@@ -40,6 +40,10 @@ background-size: cover;
     margin-top: 10px;
     
 }
+.aaginfo{
+    width: 50px;
+    margin: 0 auto;
+}
 
 th, td{
     color: beige;
