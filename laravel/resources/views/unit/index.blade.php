@@ -15,6 +15,9 @@ this is the index blade, this blade will be where everyone arrives
     </tr>
 </table>
 <p>The 14th Air Assault Group is a unit based on United States Special Forces</p>
+<p>our primary tasking consists of pure ground based assaults where out roster</p>
+<p>is based around light vehicle transportation and air to surface support</p>
+
 </div>
     
 @endsection
