@@ -14,9 +14,7 @@ this is the index blade, this blade will be where everyone arrives
         <th>COMMAND</th>
     </tr>
 </table>
-<blockquote>
-The unit 
-</blockquote>
+<p>The 14th Air Assault Group is a unit based on United States Special Forces</p>
 </div>
     
 @endsection
