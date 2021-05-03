@@ -14,7 +14,13 @@ background-size: cover;
     color: beige;
     border-radius: 10px;
     text-align: center;
+    padding: 14px 16px; 
 }
+
+blockquote{
+    background-color: #333;
+}
+
 .navbar{
     width: 100%;
 }
@@ -27,6 +33,7 @@ background-size: cover;
     border: 2px solid beige;
     text-align: center;
     margin: 0 auto;
+    padding: 14px 16px;
 }
 
 th, td{
@@ -49,6 +56,7 @@ ul {
 
 li{
     display: inline-block;
+    padding: 14px 16px; 
     
 }
 li a{

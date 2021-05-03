@@ -14,6 +14,9 @@ this is the index blade, this blade will be where everyone arrives
         <th>COMMAND</th>
     </tr>
 </table>
+<blockquote>
+The unit 
+</blockquote>
 </div>
     
 @endsection
