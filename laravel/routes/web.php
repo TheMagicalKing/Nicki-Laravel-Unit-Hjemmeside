@@ -16,7 +16,7 @@ use App\Http\Controllers\UnitController2;
 */
 Route::resource('unit', UnitController::class);
 Route::get('/unit2', [UnitController2::class]);
-route::get('unitcontr', [aagcontroller::class]);
+route::resource('/unitcontr', [aagcontroller::class]);
 
 Route::get('/', function () {
     return view('welcome');
