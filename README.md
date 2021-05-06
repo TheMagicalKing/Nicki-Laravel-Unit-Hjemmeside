@@ -2,13 +2,13 @@
 Dette er mit projekt for afslutningen af PHP-valgfaget på Datamatiker uddanelsen ved Zealand Næstved
 
 
-##Introduktion til projektet
+## Introduktion til projektet
 projektet er baseret på min Arma 3 Unit the 14th Air Assault Group
 Derfor kommer der til at være navne fra personer der måske ikke 
 giver mening, men disse er vores navne inde i spillet og har derfor
 ikke ordentligt relation til virkelige personerne.
 
-##Hvordan køres hjemmesiden?
+## Hvordan køres hjemmesiden?
 hjemmesiden køres ved at man downloader projektet of kører det via
 Localhost, har desværre ikke haft tid til at få det op på en hjemmeside
 host.
