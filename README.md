@@ -22,3 +22,7 @@ Du kan køre hjemmesiden på følgende måde:
 5. kør kommandoen php artisan serve
 6. åben en vilkårlig browser
 7. gå til siden: localhost:8000/unit
+
+## Webdesign delen
+
+for at læse min design begrundelse skal du åbne
