@@ -25,4 +25,14 @@ Du kan køre hjemmesiden på følgende måde:
 
 ## Webdesign delen
 
-for at læse min design begrundelse skal du åbne
+Hjemmesiden er designmet med et militært aspekt i tankerne, grundet en Unit er baseret på spillet ARMA3 er et krigs simulations first person shooter spil. Units er grupper inden for spillet hvor man kan samles og have en mere eller mindre hyggelig aften.
+
+Det militære kamouflage på baggrunden er brugt for at symbolisere at det netop har noget med en 'militær' enhed at gører og på den måde får vi så symboliseret at vi har noget at gøre med en 'militær' enhed.
+
+Derudover har jeg lagt en sort boks på siden som kommer til at skabe en baggrund hvor teksten egentligt bare skal have en lyssere farve end den som baggrunden ligger på, hvilket har ledt mig til at lave font farven til en mere beige aktig farve, igen sådan lidt fordi det er en 'militær' gruppe hvor beigen så symbolisere nogle af de steder man går rundt.
+
+Farve teorien bliver en smule svær at arbejde med i forhold til baggrunden og logoet, logoet er et jeg har givet af min unit og derfor er farverne ikke just til at justere fantastisk meget på, da logoet er noget der definere gruppen.
+
+Så i og forsig bliver jeg nødt til at arbejde med hvad jeg får, hvilket hovedsagligt er "Multicam Militær Uniformer" et Logo med de farver vi har og så lave et design basseret på det, noget af det jeg har gjort for at logoet ikke er lige så i øje faldende er at jeg har gjort det mindre end hvad jeg fik givet.
+
+På den måde sørger jeg for at den blå farve i logoet ikke er lige så gennemskindende.
