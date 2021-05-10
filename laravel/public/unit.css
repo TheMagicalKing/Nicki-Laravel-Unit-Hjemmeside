@@ -18,7 +18,11 @@ background-size: cover;
     width: 35%;
 }
 
-
+.firsthead {
+    @font-face{
+    font-family: "BAD GRUNGE";
+    src: url('{{ public_path('BAD GRUNGE.tff') }}');}
+}
 
 .navbar{
     width: 100%;
