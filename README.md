@@ -33,6 +33,4 @@ Derudover har jeg lagt en sort boks på siden som kommer til at skabe en baggrun
 
 Farve teorien bliver en smule svær at arbejde med i forhold til baggrunden og logoet, logoet er et jeg har givet af min unit og derfor er farverne ikke just til at justere fantastisk meget på, da logoet er noget der definere gruppen.
 
-Så i og forsig bliver jeg nødt til at arbejde med hvad jeg får, hvilket hovedsagligt er "Multicam Militær Uniformer" et Logo med de farver vi har og så lave et design basseret på det, noget af det jeg har gjort for at logoet ikke er lige så i øje faldende er at jeg har gjort det mindre end hvad jeg fik givet.
-
-På den måde sørger jeg for at den blå farve i logoet ikke er lige så gennemskindende.
+Så i og forsig bliver jeg nødt til at arbejde med hvad jeg får, hvilket hovedsagligt er "Multicam Militær Uniformer" et Logo med de farver vi har og så lave et design basseret på det, noget af det jeg har gjort for at logoet ikke er lige så i øje faldende er at jeg har gjort det mindre end hvad jeg fik givet. På den måde sørger jeg for at den blå farve i logoet ikke er lige så gennemskindende.
