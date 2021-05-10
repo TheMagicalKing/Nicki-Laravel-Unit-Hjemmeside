@@ -4,7 +4,7 @@ this is the index blade, this blade will be where everyone arrives
 @section('content')
 
 <div class="container">
-<img src="{{ URL::asset('/14thaag.png') }}">
+<img src="{{ URL::asset('/14thaag256.png') }}">
 <h1>welcome to the unit page of the 14th Air Assault Group</h1>
 <p>The unit consists of Ground and Air Support units listed below</p>
 <table class="unitlisting">
